@@ -17,6 +17,10 @@ MySecondTest
     
 MyThirdTest
     Log     I am inside 3th test
+    
+MyFourthTest
+    Log     I am inside 4th test
+
 
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome
