@@ -1,6 +1,5 @@
 *** Settings ***
-Documentation     Simple example using SeleniumLibrary.
-Library           SeleniumLibrary
+Documentation     Simple example using Robotframework.
 
 
 *** Test Cases ***
